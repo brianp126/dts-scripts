@@ -1,7 +1,7 @@
 /*
 MoveItemsOneLayer.jsx
 Author: Brian Pifer, www.designtimesolutions.com
-Two scripts, one to move selected items down a layer, the other to move them up a layer. Save as two separate scripts. 
+Two scripts, one to move selected items down a layer in Adobe InDesign, the other to move them up a layer. Save as two separate scripts. 
 */
 
 //move down a layer
